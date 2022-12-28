@@ -1,4 +1,4 @@
-<p style="text-align: center;">
+<p align="center">
     <a href="https://eduard-o.github.io/">projects</a> ·
     <a href="https://mas.to/@Eduard_o">mastodon</a> ·
     <a href="https://twitter.com/dev_abreu">twitter</a> ·
